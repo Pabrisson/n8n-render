@@ -21,3 +21,10 @@ Follow these steps :
 This instance will be free for 90d, then you need to pay 7$/mo for the database.
 
 Created by Antoine Deschamps for La Machine. Inspired by ready4mars.
+
+### Add a new n8n-nodes
+
+Follow these steps :
+
+1. Add in DockerFile
+2. Execute installation GUI in n8n for inset un DB
